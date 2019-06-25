@@ -1,0 +1,4 @@
+template_path: vpc.py
+stack_name: vpc-stack
+parameters:
+  CidrBlock: 10.0.0.0/16
